@@ -1,0 +1,22 @@
+body {background-color: #FB7C61;}
+h1 {color: #685597;
+	font-family: Futura;
+	font-size:50px;}
+p {color: #332A4A;
+	font-family: Helvetica;
+	font-size: 20px;}
+a {text-decoration: none;
+	color:#332A4A;
+	font-family: Helvetica;
+	font-size:20px;
+	background-color:white;
+	padding: 10px;}
+a:hover {color: black;}
+li{display: inline;
+	margin-right: 25px;
+ }
+
+
+ul{list-style: none;
+	}
+canvas{display: block;}
